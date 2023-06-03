@@ -1,0 +1,28 @@
+/* This is known as Elemenmt selector */
+h1{
+    text-align: center;
+} 
+
+p{
+    color: blueviolet;
+}
+
+/* This is id selector */
+#abc{
+    background-color: aqua;
+}
+
+#xyz{
+    background-color: blueviolet;
+}
+
+/* This is class selector */
+.para{
+    color: orange;
+}
+
+/* This is group selector */
+footer,#abc{
+    color: brown;
+    width: 500px;
+}
