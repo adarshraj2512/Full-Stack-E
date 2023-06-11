@@ -1,0 +1,31 @@
+#h1{
+    text-align: center;
+    color: #e7152a;
+    font-size: 40px;
+    font-style: italic;
+    font-family: 'Rubik Puddles';
+    font-weight: 1000;
+    line-height:111px ;
+    background-color:yellowgreen ;
+}
+
+#p1{
+    color: aqua;
+    background-color: rgb(48, 34, 62);
+    line-height: 50px;
+}
+
+.para{
+    font-family: 'Rubik Puddles', cursive;
+    font-style:oblique ;
+    font-weight: 1000;
+    color:blue;
+    font-size: larger;
+
+}
+
+span{
+    
+    color: red;
+    background-color: blue;
+}
