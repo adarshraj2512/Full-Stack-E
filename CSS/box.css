@@ -1,0 +1,52 @@
+/*Universal Selector
+*{
+    padding: 0;
+    margin: 0;
+}
+*/
+
+#h1{
+    font-size: 40px;
+    
+    text-align: center;
+    background-color: aquamarine;
+    /*border-style:groove;
+    border-width: 4px;
+    border-color: blueviolet;*/
+    border-top:solid blueviolet 4px;
+    border-radius: 100px;
+    border-bottom:solid red 4px;
+    width: 150px;
+    padding-left: 9px;
+    padding-top: 9px;
+    padding-right: 9px;
+    padding-bottom: 9px;
+    margin-left: 80px;
+    
+    
+    
+}
+.para{
+    border-top: dashed palevioletred 4px;
+    border-radius: 10px;
+    border-bottom:dashed blue 4px;
+    height: 200px;
+    width: 300px;
+    padding-top:79px;
+    padding-right: 40px;
+    padding-left: 40px;
+    
+}
+
+#p1{
+    background-color: blanchedalmond;
+}
+
+#p2{
+
+    background-color: beige;
+}
+
+#p3{
+    background-color: yellow;
+}
