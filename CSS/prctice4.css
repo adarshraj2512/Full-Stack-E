@@ -1,0 +1,47 @@
+#nav{
+    
+    height: 60px;
+    background-color: #0f1111;
+    
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+    color: white;
+}
+
+#logo{
+    font-size: 150%;
+    color: #f08804;
+
+}
+
+.search_bar{
+    background-color: #f08804;
+    color: white;
+}
+
+.cont{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#color1{
+    background-color: red;
+    opacity: 0.5;
+}
+
+#color2{
+    background-color: yellow;
+    opacity: 0.5;
+}
+
+#color3{
+    background-color: green;
+    opacity: 0.5;
+}
+#content{
+    height: 500px;
+}

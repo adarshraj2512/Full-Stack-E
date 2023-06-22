@@ -1,0 +1,19 @@
+#box1{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    margin-top: 25%;
+    margin-left: 25%;
+    font-size: 10px;
+
+}
+
+#box2{
+    height: 50%;
+    width: 3em;
+    /*hear 3em is 60px*/
+    background-color: blueviolet;
+    margin-left: 25%;
+    font-size: 2em;
+    /*2em means 2 times of parents font size*/
+}

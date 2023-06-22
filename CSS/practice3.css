@@ -1,0 +1,32 @@
+#hw{
+ background-color: green;
+ border: 2px solid green;
+ border-radius: 50%;
+ height: 100px;
+ width: 100px;
+ margin-bottom: 20px;
+
+}
+
+#nav{
+    
+    height: 60px;
+    background-color: #0f1111;
+    
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+    color: white;
+}
+
+#logo{
+    font-size: 25px;
+    color: #f08804;
+
+}
+
+.search_bar{
+    background-color: #f08804;
+    color: white;
+}

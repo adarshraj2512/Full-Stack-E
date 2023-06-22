@@ -1,0 +1,31 @@
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+body{
+    background-image: url("virat_kohli.JPG");
+    background-size: cover;
+}
+
+#box1{
+    background-color: rgb(254, 127, 0);
+    
+}
+
+#box2{
+    background-color: aliceblue;
+
+}
+
+#box3{
+    background-color: rgb(16, 230, 16);
+}
+
+#box4{
+    
+    background-image: url("virat_kohli.JPG");
+    background-size: cover;
+
+}
