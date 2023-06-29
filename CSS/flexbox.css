@@ -6,15 +6,24 @@ div{
     border: 2px solid black;
     display: inline-block;
     height: 50px;
-    width: 50px;
+    width: 150px;
+    
 }
 
 #container{
-    width: 540px;
-    height: 100px;
+    width: 560px;
+    height: 400px;
     display: flex;
     flex-direction: row;
-    justify-content: space-between ;
+    justify-content:center ;
+    flex-wrap:wrap;
+   /* padding: 20px;
+    margin: 50px;*/
+    align-items:flex-start;
+    /*align-content: flex-start;*/
+}
+a{
+    text-decoration: none;
 }
 
 #box1{
@@ -23,6 +32,8 @@ div{
 
 #box2{
     background-color: pink;
+    height: 100px;
+    align-self: flex-end;
 }
 
 #box3{
@@ -31,9 +42,13 @@ div{
 
 #box4{
     background-color: indianred;
+    align-self: flex-end
+    ;
 }
 
 #box5{
     background-color: slateblue;
+    align-self: flex-end;
+    
 }
 
